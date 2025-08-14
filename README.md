@@ -1,2 +1,2 @@
-# Portfolio
-A portfolio for computer programming
+# Jacob's Programming Portfolio | 2026
+
