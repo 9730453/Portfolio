@@ -65,5 +65,5 @@ Press = to evaluate and display the result.
 ![CalculatorUML](https://github.com/9730453/Portfolio/blob/main/images/calcUML.jpg)
 
 * [Windows](https://github.com/9730453/Portfolio/blob/main/src/Calc/windows-amd64.zip)
-* [MacOS](https://github.com/9730453/Portfolio/blob/main/src/Calc/macos-aarch64.zip)
-* [SourceCode](https://github.com/9730453/Portfolio/blob/main/src/Calc/Calculator.zip)
+* [MacOS](https://github.com/9730453/Portfolio/blob/main/src/Calc/macos-x86_64.zip)
+* [SourceCode](https://github.com/9730453/Portfolio/blob/main/src/Calc/sourcecode.zip)
